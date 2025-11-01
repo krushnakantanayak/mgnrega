@@ -78,6 +78,7 @@ mgnrega/
 ```
 
 ---
+<img width="1000" height="833" alt="Screenshot 2025-11-01 at 10 28 59 AM" src="https://github.com/user-attachments/assets/8c0aaec8-610d-4d15-b551-0de461a8b25c" />
 
 ## Installation & Setup
 
